@@ -1,12 +1,12 @@
-url: http://error.carolinapodesta.com/
+#url: http://jsbedford.com/
 #baseurl: .
-#baseurl: http://oceanomi.github.io/error/
-baseurl: http://error.carolinapodesta.com/
+#baseurl: http://lazysoundsystem.github.io/jsb/
+baseurl: file:///var/www/jsb/_site/
 
 # Site settings
-title: Error
-email: carolina@carolinapodesta.com
-author: "Carolina Podesta"
+title: John Bedford
+email: jsbedford@hotmail.com
+author: "John Bedford"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:

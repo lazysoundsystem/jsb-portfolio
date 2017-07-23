@@ -1,0 +1,10 @@
+---
+title: head study 9
+layout: post
+permalink: works/head-study-9
+img: head-study-9.jpg
+img_quantity: 1
+material: ink on paper
+size: cm x cm
+
+---

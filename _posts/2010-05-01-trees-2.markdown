@@ -1,0 +1,10 @@
+---
+title: trees-2
+layout: post
+permalink: works/trees-2
+img: trees-2.jpg
+img_quantity: 1
+material: Oil on canvas
+size: 50cm x 40cm
+
+---

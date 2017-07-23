@@ -1,0 +1,10 @@
+---
+title: head study 3
+layout: post
+permalink: works/head-study-3
+img: head-study-3.jpg
+img_quantity: 1
+material: ink on paper
+size: cm x cm
+
+---
