@@ -1,7 +1,7 @@
 #url: http://jsbedford.com/
 #baseurl: .
-#baseurl: http://lazysoundsystem.github.io/jsb/
-baseurl: file:///var/www/jsb/_site/
+#baseurl: http://lazysoundsystem.github.io/jsb-portfolio/
+#baseurl: file:///var/www/jsb/_site/
 
 # Site settings
 title: John Bedford
